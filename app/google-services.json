@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332701668828",
+    "project_id": "healthyday-3e8df",
+    "storage_bucket": "healthyday-3e8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332701668828:android:954d6a8fe21e8a5235ab19",
+        "android_client_info": {
+          "package_name": "com.farmadventure.globa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332701668828-51oq23h77s06pg5g424m9j2fhmckd37u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWW8I3o-Y_Tjhr1ygsEZ2mYUFIO3zGkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332701668828-51oq23h77s06pg5g424m9j2fhmckd37u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
